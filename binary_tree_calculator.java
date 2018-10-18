@@ -5,7 +5,7 @@ import textbook.LinkedQueue;
 import textbook.Position;
 import java.util.*;
 
-public class Assignment{
+public class binary_tree_calculator.java{
    
     
 	/**
